@@ -36,7 +36,7 @@ public class TS_NS_6605_AddAgencyCommission_Radio  extends BaseReport {
 	public static HashMap<String,String> XLTestData;
 	public static WebDriver driver;
 
-	//========================>NS login
+	//========================>NS login message
 	NS_LoginPage oLoginPage=new NS_LoginPage();
 	Generic oGenericUtils=new Generic();
 	NS_Billing_AdjustmentAndSpecialBilling oSalesOrderNetsuite = new NS_Billing_AdjustmentAndSpecialBilling();
