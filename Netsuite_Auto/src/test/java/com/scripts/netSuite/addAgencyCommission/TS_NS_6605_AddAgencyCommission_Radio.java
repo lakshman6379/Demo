@@ -25,7 +25,7 @@ import com.netsuite.common.NS_Billing_CasePageValidations;
 import com.netsuite.common.NS_Billing_InvoicePageValidations;
 import com.netsuite.common.NS_LoginPage;
 
-public class TS_NS_6605_AddAgencyCommission_Radio  extends BaseReport {
+public class TS_NS_6605_AddAgencyCommission_Radio  extends BaseReport { //successfully executed //
 
 	private BaseTest basetest;
 	public static Excel_Reader excelReader;
